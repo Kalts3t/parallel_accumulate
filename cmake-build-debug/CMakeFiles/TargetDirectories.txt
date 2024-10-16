@@ -1,0 +1,3 @@
+C:/Users/Leon/CLionProjects/threadTest/cmake-build-debug/CMakeFiles/threadTest.dir
+C:/Users/Leon/CLionProjects/threadTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leon/CLionProjects/threadTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
